@@ -4,3 +4,6 @@
 [submodule "CDI_Practica2"]
 	path = CDI_Practica2
 	url = git@github.com:mrds90/CDI_Practica2.git
+[submodule "CDI_Practica3"]
+	path = CDI_Practica3
+	url = git@github.com:mrds90/CDI_Practica3.git
